@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CinemaProject_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/CinemaProject",
+	"CMAKE_SOURCE_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/CinemaProject",
+	"INCLUDE_DIR" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CinemaProject_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CMakeFiles/CinemaProject_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/kareem/Qt/6.6.2/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CMakeFiles/CinemaProject_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/kareem/Desktop/LAB ASSIGNMENT 1/CinemaProject/Resources.qrc",
+	"VERBOSITY" : 0
+}

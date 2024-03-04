@@ -1,0 +1,15 @@
+# ninja log v5
+103	1288	1708775647609693578	CMakeFiles/CinemaProject.dir/CinemaProject_autogen/S5YYZ2ZCNV/qrc_Resources.cpp.o	9401d8be63c334f1
+54	933	1708782652487157864	CMakeFiles/CinemaProject.dir/Users.cpp.o	39b41615832991d1
+52	1209	1708782684823881553	CMakeFiles/CinemaProject.dir/registerwindow.cpp.o	158226b431ba36ba
+8	50	1708782683669881796	CinemaProject_autogen/mocs_compilation.cpp	fee39ea45cb482ee
+8	50	1708782683669881796	/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CinemaProject_autogen/timestamp	fee39ea45cb482ee
+8	50	1708782683669881796	/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CinemaProject_autogen/mocs_compilation.cpp	fee39ea45cb482ee
+1210	1316	1708782684931812163	CinemaProject.app/Contents/MacOS/CinemaProject	553b4672ec55dd0c
+8	50	1708782683669881796	CinemaProject_autogen/timestamp	fee39ea45cb482ee
+52	1192	1708782684796334590	CMakeFiles/CinemaProject.dir/welcomewindow.cpp.o	6cc55b3475295219
+209	1334	1708779825688348357	CMakeFiles/CinemaProject.dir/CinemaProject_autogen/mocs_compilation.cpp.o	1e9fbe3abe39a0fe
+37	103	1708775646427535018	CinemaProject_autogen/S5YYZ2ZCNV/qrc_Resources.cpp	c9a00bf08b707b06
+52	1189	1708782684796337090	CMakeFiles/CinemaProject.dir/loginwindow.cpp.o	7868e389e3b24d3f
+190	1425	1708770509670693438	CMakeFiles/CinemaProject.dir/main.cpp.o	82df95924258f306
+37	103	1708775646427535018	/Users/kareem/Desktop/LAB ASSIGNMENT 1/build-CinemaProject-Qt_6_6_2_for_macOS-Debug/CinemaProject_autogen/S5YYZ2ZCNV/qrc_Resources.cpp	c9a00bf08b707b06
