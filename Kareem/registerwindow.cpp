@@ -60,7 +60,10 @@ void RegisterWindow::on_Register_clicked()
 
     }
     if(age<12)
+    {
         ui->BirthStatus->setVisible(true);
+        errors+=1;
+    }
     if((!action)&&(!comedy)&&(!horror)&&(!drama)&&(!romance)&&(!other))
     {
         ui->FieldsStatus->setVisible(true);
